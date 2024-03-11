@@ -1,0 +1,14 @@
+department,"round(avg(datediff(termdate,hire_date)/365),2)"
+Engineering,7.83
+Services,7.66
+"Human Resources",7.48
+"Business Development",7.33
+Sales,8.76
+Support,7.23
+Auditing,7.87
+Training,7.27
+Accounting,7.96
+"Research and Development",7.79
+"Product Management",6.63
+Legal,6.76
+Marketing,8.20
